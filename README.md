@@ -32,13 +32,13 @@ I expect to graduate in August 2025, armed not just with theory but hands-on exp
 - 🎯 **Open Source Projects:** I’m happy to jump into GitHub issues, write new modules, or help with documentation.  
 - 🚀 **Research & Grants:** Interested in co-authoring papers or applying for funding? Let’s brainstorm proposals.  
 - 🛠️ **Hackathons & Workshops:** I love teaming up for weekend sprints, meetups, or virtual datathons.  
-- 💬 **Just Chat:** Sometimes the best collaborations start with a coffee (virtual or in-person). Hit me up on [LinkedIn](www.linkedin.com/in/elisa-delavega-ricardo) or open an issue on one of my repos!
+- 💬 **Just Chat:** Sometimes the best collaborations start with a coffee (virtual or in-person). Hit me up on [LinkedIn](https://www.linkedin.com/in/elisa-delavega-ricardo) or open an issue on one of my repos!
 
 If this resonates, let’s connect and turn big ideas into real-world impact!    
 
 - 🤔 I’m looking for help with designing end-to-end MLOps pipelines—think Docker, Kubernetes, and GitHub Actions—to streamline model deployment, monitoring, and versioning.  
 - 💬 Ask me about Bayesian inference in Stan (ADVI vs. HMC diagnostics), building real-time emotion-recognition models in PyTorch + OpenCV, or crafting tidyverse workflows in R.  
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/elisa-delavega-ricardo)  | ✉️ elisa.delavegaricardo@richmond.edu | elisadelavegaricardo@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elisa-delavega-ricardo)  | ✉️ elisa.delavegaricardo@richmond.edu | elisadelavegaricardo@gmail.com
 - ⚡ Fun fact:  I’ve lived in three different countries, speak fluent Spanish, and survived a communist dictatorship!
 
 <p align="center">
