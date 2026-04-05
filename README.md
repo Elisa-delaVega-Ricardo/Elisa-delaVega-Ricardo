@@ -1,6 +1,6 @@
 # Elisa de la Vega Ricardo
 
-**Data Scientist · M.S. Data Science (University of Virginia, Aug 2025) · B.A. Data Analytics (University of Richmond)**
+**Data Scientist · M.S. Data Science (University of Virginia, Dec 2025) · B.A. Data Analytics (University of Richmond)**
 
 I build data-driven solutions that turn complex information into clear, actionable insight. My work sits at the intersection of statistical modeling, machine learning, and applied analytics — with a focus on delivering results that stakeholders across technical and non-technical teams can act on.
 
