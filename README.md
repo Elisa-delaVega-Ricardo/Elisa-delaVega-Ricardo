@@ -12,7 +12,7 @@ I build data-driven solutions that turn complex information into clear, actionab
 
 **Machine Learning & Deep Learning** — End-to-end ML pipelines from feature engineering through evaluation. Classification, clustering, ensemble methods (XGBoost, LightGBM), neural networks in PyTorch and TensorFlow. I emphasize reproducibility, proper validation, and honest assessment of model limitations.
 
-**Data Engineering & Pipelines** — Data wrangling at scale with Python and R. Experience building ETL workflows, handling messy real-world datasets, and creating reproducible environments. Comfortable with SQL, Docker, and cloud-based data workflows.
+**Data Engineering & Pipelines** — Data wrangling at scale with Python and R. Experience building ETL workflows, handling messy real-world datasets, and creating reproducible environments. 
 
 **Communication & Data Storytelling** — I translate analytical findings into clear reports, dashboards, and presentations for diverse audiences — from executive leadership to frontline teams. Every analysis I produce includes a "so what" — the actionable recommendation, not just the result.
 
@@ -21,11 +21,11 @@ I build data-driven solutions that turn complex information into clear, actionab
 ### Technical Skills
 
 ```
-Languages        Python · R · SQL
+Languages        Python · R 
 ML/DL            scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow/Keras
 Data & Viz       pandas · NumPy · SciPy · Matplotlib · Seaborn · Plotly · Tableau
 Statistical      Bayesian Inference (Stan, ADVI) · Hypothesis Testing · Regression · Survival Analysis
-Engineering      Docker · Airflow · Git · REST APIs · Linux/Bash
+Engineering      Docker · Git · REST APIs · Linux/Bash
 Domains          Healthcare · Education · Public Policy · Operations
 ```
 
