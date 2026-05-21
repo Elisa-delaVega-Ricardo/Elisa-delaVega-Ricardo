@@ -153,3 +153,47 @@ Includes hyperparameter sensitivity analysis across 5 chunk sizes, three chunkin
 ---
 
 ## Technical Stack
+
+```
+Languages        Python · R · SQL
+ML / DL          scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow / Keras
+NLP / RAG        TF-IDF (from scratch) · sentence-transformers · FAISS
+Data & Viz       pandas · NumPy · SciPy · matplotlib · seaborn · Plotly · Tableau · Power BI
+Deployment       Streamlit · Streamlit Cloud · joblib · FastAPI · Docker
+Statistical      Bayesian Inference (Stan, ADVI) · Hypothesis Testing · Survival Analysis
+Engineering      Git · GitHub · Linux / Bash · REST APIs
+```
+
+---
+
+## Earlier Work
+
+| Project | Focus |
+|---|---|
+| [Henrico County Education Analytics](https://github.com/Elisa-delaVega-Ricardo/henrico-education-analytics) | 8 years of Virginia SOL data — trend analysis, equity gap assessment, COVID impact modeling |
+| Enhancing Remote Therapy with Facial Expression Recognition (FACEMINE) | Real-time computer vision for telehealth, built with PyTorch |
+
+---
+
+## Education
+
+**M.S. Data Science** — University of Virginia *(Dec 2025)*
+Coursework: Deep Learning · Bayesian Machine Learning · Scalable Data Engineering · Statistical Modeling
+
+**B.A. Data Analytics** — University of Richmond *(May 2023)*
+
+---
+
+## Let's Connect
+
+I work with service businesses in the Greater Richmond, VA area on lead scoring, no-show prediction, churn modeling, and operations analytics. If your business sees more than 50 leads or appointments per week and your team is reacting instead of predicting, I can help.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elisa-delavega-ricardo">LinkedIn</a> ·
+  <a href="mailto:elisadelavegaricardo@gmail.com">Email</a> ·
+  <a href="https://github.com/Elisa-delaVega-Ricardo">GitHub</a>
+</p>
+
+<p align="center">
+  <em>Ricardo Data & AI Consulting, LLC · Richmond, Virginia</em>
+</p>
