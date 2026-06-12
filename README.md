@@ -1,4 +1,4 @@
-<h1 align="center">Elisa Rutledge</h1>
+<h1 align="center">Hi, I am Elisa Rutledge</h1>
 
 <p align="center">
   
@@ -16,6 +16,26 @@
 </p>
 
 ---
+
+Data Scientist | Data Analyst | Bilingual (English / Spanish) | Based in Richmond, VA
+
+---
+
+## About Me
+
+I am a Data Scientist with a Master of Science in Data Science from the **University of Virginia** and a Bachelor of Science in Data Analytics from the **University of Richmond** (GPA: 3.98). My professional interests sit at the intersection of healthcare analytics, statistical modeling, and AI-driven decision support, with a strong focus on turning complex data into clear, actionable insights for both technical teams and non technical stakeholders.
+
+I am currently seeking full time opportunities in Data Analytics, Data Science, and Business Intelligence roles. My portfolio below demonstrates end to end project work covering statistical analysis, predictive modeling, NLP, deep learning, and survey methodology.
+
+---
+
+## What I Do
+
+- **Statistical Analysis & Modeling** — Regression (linear, logistic, multinomial), ANOVA, hypothesis testing, Bayesian inference, A/B testing fundamentals, complex survey design
+- **Machine Learning & AI** — Predictive modeling, classification, clustering, CNN architectures with PyTorch, NLP with BART MNLI and Clinical BERT, LoRA fine tuning
+- **Data Engineering** — ETL pipeline development, data validation, multi source integration, automated reporting workflows
+- **Visualization & Reporting** — Tableau dashboards, executive KPI reports, matplotlib, seaborn, ggplot2, Plotly, advanced Excel
+- **Communication** — Stakeholder presentations, technical writing, data storytelling for non technical audiences
 
 
 ---
