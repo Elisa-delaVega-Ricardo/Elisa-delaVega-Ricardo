@@ -54,23 +54,64 @@ Engineering      Git · GitHub · Linux / Bash · REST APIs
 
 ---
 
-## Earlier Work
+## Featured Projects
 
-| Project | Focus |
-|---|---|
-| [Henrico County Education Analytics](https://github.com/Elisa-delaVega-Ricardo/henrico-education-analytics) | 8 years of Virginia SOL data — trend analysis, equity gap assessment, COVID impact modeling |
-| Enhancing Remote Therapy with Facial Expression Recognition (FACEMINE) | Real-time computer vision for telehealth, built with PyTorch |
+### 1. Healthcare Communication Quality — AI Scoring Engine (NLP)
+An evidence weighted scoring framework grounded in 121 peer reviewed sources that evaluates clinical communication quality across 32 subcriteria. Uses BART MNLI zero shot classification and Bayesian calibration. Scored 1,000 real clinical conversations and validated outputs against 8 human raters. Built as my graduate capstone for Empathable, a healthcare AI platform.
+
+**Stack:** Python, PyTorch, BART MNLI, Clinical BERT, LoRA, Bayesian inference
+
+---
+
+### 2. Performance Analytics Pipeline & Executive Dashboard
+End to end analytics pipeline processing 21,800+ records from multiple data sources across 8 time periods. Automated data ingestion, validation, statistical analysis (t tests, ANOVA, correlation, linear regression), and report generation. Delivered an executive dashboard with KPI cards, trend lines, equity gap analysis, and 10 publication quality visualizations.
+
+**Stack:** Python, pandas, scikit learn, matplotlib, seaborn
+
+---
+
+### 3. Multi Source Statistical Analysis & Demographic Segmentation
+Multi variable regression analysis across 72 organizational units over 4 years. Applied correlation analysis, multiple regression with diagnostics, ANOVA with Tukey HSD post hoc comparisons, and demographic subgroup analysis across 13 segments. Produced automated stakeholder reports with executive summaries.
+
+**Stack:** R, tidyverse, ggplot2, broom
+
+---
+
+### 4. Survey Weighted Statistical Inference
+Analyzed 16,000 survey records using complex survey design methods (svydesign, svyglm). Built logistic regression models with odds ratios, weighted prevalence estimates, chi square tests, Likert scale visualizations, and 10 year trend analysis. Delivered a full statistical report with executive summary and 10 presentation quality figures.
+
+**Stack:** R, survey package, tidyverse, ggplot2
+
+---
+
+### 5. Deep Learning — CNN Architecture Comparison
+Designed, trained, and evaluated 4 convolutional neural network architectures (custom MyCNN, MyCNNv2, ResNet18, VGG16) for 8 class image classification from 48x48 grayscale images. Built reproducible training pipeline with PyTorch transforms, custom DataLoaders, seed controlled training, and systematic model comparison using accuracy, F1, precision/recall, and confusion matrices.
+
+**Stack:** Python, PyTorch, torchvision
+
+---
 
 ---
 
 ## Education
 
+| Degree | Institution | Year | GPA |
+|---|---|---|---|
+| **M.S. Data Science** | University of Virginia | 2024 to 2026 | 3.65 |
+| **B.S. Data Analytics** | University of Richmond | 2021 to 2023 | 3.98 |
+| **A.S. Computer Science** | Reynolds Community College | 2019 to 2021 | 3.75 |
 
-
-
-**B.A. Data Analytics** — University of Richmond *(May 2023)*
-Coursework: Deep Learning · Bayesian Machine Learning · Scalable Data Engineering · Statistical Modeling
 ---
 
+## Contact
+
+- **Email:** elisadelavegaricardo@gmail.com
+- **LinkedIn:** linkedin.com/in/elisa-rutledge
+- **Location:** Richmond, VA (open to remote and hybrid work across the US)
+- **Languages:** English (fluent), Spanish (fluent/bilingual)
+
+---
+
+*Thank you for visiting my GitHub. Each repository below contains a detailed README with the problem statement, methodology, results, and reproducibility instructions. I welcome feedback and conversation about any of the work shown here.*
 
 
