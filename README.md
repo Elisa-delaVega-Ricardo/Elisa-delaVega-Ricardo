@@ -105,7 +105,7 @@ Designed, trained, and evaluated 4 convolutional neural network architectures (c
 
 ## Contact
 
-- **Email:** elisadelavegaricardo@gmail.com
+- **Email:** elisarutledge01@gmail.com
 - **LinkedIn:** linkedin.com/in/elisa-rutledge
 - **Location:** Richmond, VA (open to remote and hybrid work across the US)
 - **Languages:** English (fluent), Spanish (fluent/bilingual)
